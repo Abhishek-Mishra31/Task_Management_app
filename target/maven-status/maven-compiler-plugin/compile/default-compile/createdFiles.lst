@@ -1,0 +1,7 @@
+com\mycompany\task_management_system\resources\JakartaEE10Resource.class
+com\mycompany\task_management_system\Servlet\NewServlet.class
+com\mycompany\task_management_system\services\TaskService.class
+com\mycompany\task_management_system\JakartaRestConfiguration.class
+com\mycompany\task_management_system\model\User.class
+com\mycompany\task_management_system\model\Tasks.class
+com\mycompany\task_management_system\services\UserService.class
